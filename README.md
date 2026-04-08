@@ -46,12 +46,3 @@
 - Generate Report: Click 📊 Generate Report to print a summary of the current robot statuses and pending tasks to the browser's developer console (Press F12 to open).
 - Observe: Watch how the Failure Probability changes based on the simulated sensor data and how the robot status (Operational, Warning, Critical) updates in response.
 
-## 🤝 Contributing
-- Fork the repository
-- Create a feature branch (git checkout -b feature/amazing-feature)
-- Commit your changes (git commit -m 'Add amazing feature')
-- Push to the branch (git push origin feature/amazing-feature)
-- Open a Pull Request
-
-## 📄 License
-- This project is distributed under the MIT License. See the LICENSE file for more information.
